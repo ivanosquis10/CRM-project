@@ -1,0 +1,39 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "telefono": 102013313,
+      "email": "juan@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 2,
+      "nombre": "Eulimar",
+      "telefono": 102013313,
+      "email": "eulimar@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 3,
+      "nombre": "Wilser",
+      "telefono": 102013313,
+      "email": "wilser@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 4,
+      "nombre": "Karen",
+      "telefono": 102013313,
+      "email": "karen@juan.com",
+      "empresa": "Codigo Con Juan"
+    },
+    {
+      "id": 5,
+      "nombre": "Ivan",
+      "telefono": 102013313,
+      "email": "ivan@juan.com",
+      "empresa": "Codigo Con Juan"
+    }
+  ]
+}
